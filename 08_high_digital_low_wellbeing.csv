@@ -1,0 +1,51 @@
+Student_ID,Age,Gender,Education_Level,Daily_Social_Media_Hours,Daily_AI_Tool_Usage_Hours,Sleep_Hours,Mental_Health_Score,Physical_Health_Score
+STU_09751,18,Female,College,10.66,5.85,4.63,32.56,65.49
+STU_13283,25,Female,University,8.63,0.68,6.09,32.88,98.86
+STU_07663,23,Male,University,8.38,3.87,3.87,33.78,69.94
+STU_13513,18,Male,College,7.81,5.77,7.24,33.88,84.95
+STU_01596,16,Female,High School,11.1,5.68,4.93,34.39,81.32
+STU_01826,14,Male,High School,8.88,6.92,6.21,35.22,92.08
+STU_14240,24,Male,University,10.45,3.85,4.08,35.75,79.34
+STU_14338,18,Female,College,7.99,0.93,5.74,36.4,82.7
+STU_00164,19,Male,College,11.09,0.99,6.91,36.64,91.19
+STU_11150,14,Male,High School,6.63,2.99,4.79,36.89,89.16
+STU_07607,17,Female,High School,11.35,1.58,5.07,37.26,99.79
+STU_03519,24,Male,University,10.85,6.37,3.89,38.27,68.79
+STU_06233,18,Male,College,9.39,4.94,7.36,38.31,77.24
+STU_04700,13,Female,High School,9.2,1.69,4.81,38.68,79.71
+STU_07086,16,Female,High School,6.91,3.52,7.0,38.73,84.17
+STU_14682,16,Male,High School,7.7,4.07,7.57,38.82,89.62
+STU_12156,13,Male,High School,6.61,2.3,4.61,38.9,64.95
+STU_08397,20,Male,College,7.71,5.05,6.87,39.09,78.02
+STU_15399,20,Male,College,7.71,5.05,6.87,39.09,78.02
+STU_08945,21,Female,College,7.68,1.32,5.59,39.28,89.16
+STU_15947,21,Female,College,7.68,1.32,5.59,39.28,89.16
+STU_02575,14,Female,High School,9.46,0.26,4.78,39.29,78.45
+STU_04501,19,Male,College,8.68,3.38,4.87,39.38,90.24
+STU_12673,18,Female,College,7.44,1.15,6.21,39.69,89.24
+STU_13944,21,Female,College,6.88,0.0,6.52,39.82,89.93
+STU_01084,23,Male,University,10.1,1.39,6.07,40.07,69.96
+STU_03791,13,Female,High School,9.69,4.43,4.96,40.16,65.54
+STU_12041,21,Female,College,8.46,0.0,4.18,40.63,70.26
+STU_07552,19,Male,College,6.22,1.06,5.67,40.72,88.18
+STU_08050,15,Male,High School,7.78,5.96,7.11,40.85,86.28
+STU_15052,15,Male,High School,7.78,5.96,7.11,40.85,86.28
+STU_04041,15,Male,High School,8.24,0.0,5.99,40.91,84.12
+STU_08603,16,Female,High School,6.72,4.42,4.58,41.3,88.88
+STU_15605,16,Female,High School,6.72,4.42,4.58,41.3,88.88
+STU_10478,25,Male,University,7.46,3.92,5.77,41.34,93.19
+STU_03637,20,Female,College,7.6,2.33,5.76,41.43,84.28
+STU_11017,16,Female,High School,6.24,1.71,5.95,41.53,89.44
+STU_06317,16,Male,High School,7.12,2.14,4.86,41.57,90.85
+STU_10787,15,Male,High School,8.34,4.85,5.36,41.57,81.21
+STU_12066,19,Female,College,10.22,4.38,4.79,41.86,79.98
+STU_13738,16,Female,High School,7.13,2.1,4.31,41.91,91.49
+STU_02005,16,Female,High School,7.49,3.74,5.1,42.07,99.9
+STU_11438,13,Male,High School,6.38,2.8,6.57,42.22,98.29
+STU_03131,22,Male,University,11.78,2.53,4.94,42.25,75.38
+STU_03221,25,Male,University,6.13,4.13,6.43,42.39,76.33
+STU_07269,13,Female,High School,7.6,2.05,6.81,42.4,62.44
+STU_03092,22,Female,University,6.56,1.44,5.64,42.42,80.68
+STU_06772,25,Male,University,8.65,3.33,7.32,42.69,55.01
+STU_14269,20,Male,College,8.45,4.41,6.46,42.92,79.56
+STU_04542,23,Male,University,7.66,1.49,6.21,43.03,99.68

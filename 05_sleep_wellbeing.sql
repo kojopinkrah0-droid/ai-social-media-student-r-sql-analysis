@@ -1,0 +1,1 @@
+SELECT Sleep_Band, COUNT(*) students, ROUND(AVG(Mental_Health_Score),2) avg_mental, ROUND(AVG(Physical_Health_Score),2) avg_physical, ROUND(AVG(Daily_Social_Media_Hours),2) avg_social FROM students GROUP BY Sleep_Band;

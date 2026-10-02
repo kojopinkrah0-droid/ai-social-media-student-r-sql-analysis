@@ -1,0 +1,1 @@
+SELECT COUNT(*) students, ROUND(AVG(Age),2) avg_age, ROUND(AVG(Daily_Social_Media_Hours),2) avg_social_hours, ROUND(AVG(Daily_AI_Tool_Usage_Hours),2) avg_ai_hours, ROUND(AVG(Sleep_Hours),2) avg_sleep, ROUND(AVG(Mental_Health_Score),2) avg_mental_health, ROUND(AVG(Physical_Health_Score),2) avg_physical_health FROM students;

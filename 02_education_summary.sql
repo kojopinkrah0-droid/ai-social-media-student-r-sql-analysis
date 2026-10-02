@@ -1,0 +1,1 @@
+SELECT Education_Level, COUNT(*) students, ROUND(AVG(Daily_Social_Media_Hours),2) avg_social, ROUND(AVG(Daily_AI_Tool_Usage_Hours),2) avg_ai, ROUND(AVG(Mental_Health_Score),2) avg_mental, ROUND(AVG(Physical_Health_Score),2) avg_physical FROM students GROUP BY Education_Level ORDER BY students DESC;

@@ -1,0 +1,1 @@
+SELECT Student_ID,Age,Gender,Education_Level,Daily_Social_Media_Hours,Daily_AI_Tool_Usage_Hours,Sleep_Hours,Mental_Health_Score,Physical_Health_Score FROM students WHERE Daily_Social_Media_Hours>=6 AND Mental_Health_Score<60 ORDER BY Mental_Health_Score LIMIT 50;
